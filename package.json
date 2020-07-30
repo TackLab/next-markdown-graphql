@@ -1,0 +1,24 @@
+{
+  "name": "@tacklab/next-markdown-graphql",
+  "version": "1.0.0",
+  "description": "This is a tool to integrate markdown content into graphql to be used with next.js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TackLab/next-markdown-graphql.git"
+  },
+  "keywords": [
+    "next.js",
+    "graphql",
+    "markdown"
+  ],
+  "author": "TackLab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TackLab/next-markdown-graphql/issues"
+  },
+  "homepage": "https://github.com/TackLab/next-markdown-graphql#readme"
+}
