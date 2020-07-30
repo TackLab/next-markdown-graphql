@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/TackLab/next-markdown-graphql/issues"
   },
-  "homepage": "https://github.com/TackLab/next-markdown-graphql#readme"
+  "homepage": "https://github.com/TackLab/next-markdown-graphql#readme",
+  "dependencies": {
+    "graphiql": "^1.0.3"
+  }
 }
