@@ -1,7 +1,8 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@tacklab/next-markdown-graphql",
+  "version": "1.0.0",
+  "description": "This is a tool to integrate markdown content into graphql to be used with next.js framework",
+  "main": "src/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -14,12 +15,27 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TackLab/next-markdown-graphql.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "keywords": [
+    "next.js",
+    "graphql",
+    "markdown"
+  ],
+  "author": "TackLab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TackLab/next-markdown-graphql/issues"
+  },
+  "homepage": "https://github.com/TackLab/next-markdown-graphql#readme",
   "eslintConfig": {
     "extends": "react-app"
   },
