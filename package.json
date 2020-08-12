@@ -1,6 +1,6 @@
 {
   "name": "next-markdown-graphql",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "This is a tool to integrate markdown content into graphql to be used with next.js framework",
   "author": "tacklab",
   "license": "MIT",
@@ -27,17 +27,12 @@
     "@okgrow/graphql-markdown": "^0.0.2",
     "apollo-server": "^2.16.1",
     "apollo-server-micro": "^2.16.1",
-    "consola": "^2.15.0",
     "express": "^4.17.1",
     "express-graphql": "^0.11.0",
-    "file-loader": "^3.0.1",
     "graphql": "^15.3.0",
     "graphql-helper": "^0.3.0",
     "graphql-tools": "^6.0.16",
-    "img-loader": "^3.0.1",
-    "path": "^0.12.7",
-    "raw-loader": "^2.0.0",
-    "url-loader": "^1.1.2"
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
