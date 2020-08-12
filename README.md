@@ -30,7 +30,7 @@ module.exports = withFilesParser({
 
 If runExpressServer is false, you can create a component in `pages/` and call the GraphiQL from the same nextjs server
  
-- Just create a file in pages (e.g: `pages/graphql-data.js`) and add the following piece of code
+- Just create a file in pages (e.g: `pages/api/graphql-data.js`) and add the following piece of code
 
 ```javascript
 import { ApolloServer } from "apollo-server-micro";
