@@ -71,4 +71,4 @@ For any issue or suggestion please fell free to open an issue at [https://github
 
 ## License
 
-MIT © [tacklab](https://github.com/tacklab)
+[MIT](https://github.com/TackLab/next-markdown-graphql/blob/master/LICENSE) © [TackLab](https://tacklabcr.com/)
