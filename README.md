@@ -67,7 +67,7 @@ description: 'Product Description'
 
 ## Issues
 
-For any issue or suggestion please fell free to open an issue at [https://github.com/TackLab/next-markdown-graphql.git/issues](https://github.com/TackLab/next-markdown-graphql.git/issues)
+For any issue or suggestion please fell free to open an issue at [https://github.com/TackLab/next-markdown-graphql.git/issues](https://github.com/TackLab/next-markdown-graphql/issues)
 
 ## License
 
