@@ -9,12 +9,18 @@
 npm install --save next-markdown-graphql
 ```
 
+You can also use Yarn: 
+
+```bash
+yarn add next-markdown-graphql
+```
+
 ## Options
 
-| Options  | Description | Default value |
-| ------------- | ------------- | ------------- |
-| documentRoot  | With this option you can specify the location of the markdown files to be loaded.  | None |
-| runExpressServer  | If `True` GraphiQL runs in an express server. This can be accessed in [http://localhost:4000/](http://localhost:4000/)  | false |
+| Options  | Description | Default value | Required |
+| ------------- | ------------- | ------------- | ------------- |
+| documentRoot  | With this option you can specify the location of the markdown files to be loaded.  | None | Yes |
+| runExpressServer  | If `True` GraphiQL runs in an express server. This can be accessed in [http://localhost:4000/](http://localhost:4000/)  | false | No |
 
 ## How to use it
 
@@ -28,7 +34,7 @@ module.exports = withFilesParser({
 });
 ```
 
-If runExpressServer is false, you can create a component in `pages/` and call the GraphiQL from the same nextjs server
+If runExpressServer is false, you can create a component in `pages/api/` and call the GraphiQL from the same nextjs server
  
 - Just create a file in pages (e.g: `pages/api/graphql-data.js`) and add the following piece of code
 
@@ -67,7 +73,7 @@ description: 'Product Description'
 
 ## Issues
 
-For any issue or suggestion please fell free to open an issue at [https://github.com/TackLab/next-markdown-graphql.git/issues](https://github.com/TackLab/next-markdown-graphql/issues)
+For any issue or suggestion please fell free to open an issue at [https://github.com/TackLab/next-markdown-graphql/issues](https://github.com/TackLab/next-markdown-graphql/issues)
 
 ## License
 
