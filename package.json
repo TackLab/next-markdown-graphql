@@ -1,6 +1,6 @@
 {
   "name": "next-markdown-graphql",
-  "version": "1.0.32",
+  "version": "1.1.0",
   "description": "This is a tool to integrate markdown content into graphql to be used with next.js framework",
   "author": "tacklab",
   "license": "MIT",
